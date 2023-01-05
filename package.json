@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon ~/Documentos/javaScript/Js/prueba.js "
+    "test": "nodemon ~/Documentos/javaScript/Js/prueba.js ",
+    "json": "json-server --watch ~/Documentos/javaScript/notas/youtube-js/assets/db.json"
   },
   "author": "",
   "license": "ISC",
